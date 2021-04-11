@@ -1,0 +1,9 @@
+.messageError
+{
+  border-color: red;
+}
+
+.messageSuccess
+{
+  border-color: green;
+}
