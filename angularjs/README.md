@@ -1,2 +1,0 @@
-# coursera-angular
-tests coursera
