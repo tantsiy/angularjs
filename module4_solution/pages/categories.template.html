@@ -1,0 +1,6 @@
+
+<ul class="list-group">
+    <li ng-repeat="data in $ctrl.categories" ui-sref="categories.items({categoriesname: data.short_name})"
+    class="btn btn-outline-secondary d-flex justify-content-start">{{data.name}}</li> 
+</ul>
+
